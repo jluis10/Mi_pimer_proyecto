@@ -1,0 +1,8 @@
+Al parecer los repositorios tienen varios programas con diferentes tipos de 
+lenguaje que va desde HTML5, CSS, Java etc. Cada programa tiene su estructura
+  y un proyecto puede ser editado a gusto de otros usuarios o corregido si es 
+que hubiera algún error. 
+
+De la misma forma algunos son muy complejos por todo lo que posee y lo más
+ importante sin importar de donde sea el usuario este escribe en inglés para 
+los demás.  
